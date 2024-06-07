@@ -1,0 +1,10 @@
+ipsec-tools,1.86
+amule,1.83
+gnupg,1.56
+conntrack,1.56
+ntp,1.54
+parted,1.51
+strongswan,1.48
+vnstat,1.33
+radvd,1.33
+openssh,1.21
