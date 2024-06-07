@@ -58,14 +58,6 @@ The `artifact/` folder contains dataset of firmware, library, vulnearbility, and
 ### Artifacts
 
 
-## Usage
-
-Malicious samples are available under the **[samples/](samples/)** folder and compressed as an encrypted ZIP file with the password `infected`. The date indicated as part of the file name is the 
-discovery date, not necessarily the package publication date.
-
-You can use the script [extract.sh](./samples/pypi/extract.sh) to automatically extract all the samples to perform local analysis on them. Alternatively, you can extract a single sample using:
-
-
 
 ## License
 
