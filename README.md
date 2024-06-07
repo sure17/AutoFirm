@@ -1,7 +1,11 @@
 ## AutoFirm - Automatic Firmware Analysis
 
-<p align="center">
+<!-- <p align="center">
   <img src="./tool/arch.jpg" height="200" alt="Data Collection"/>
+</p> -->
+
+<p align="center">
+  <img src="https://anonymous.4open.science/api/repo/AutoFirm-C01D/file/tool/arch.jpg?v=fbccec1e" height="200" alt="Data Collection"/>
 </p>
 
 
